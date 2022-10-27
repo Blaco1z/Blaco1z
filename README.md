@@ -1,16 +1,15 @@
-### Hi there 👋
 
-<!--
-**Blaco1z/Blaco1z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Music app and websites
 
-Here are some ideas to get you started:
+I have been able to create a music app using django.Also I have been able to create good webpages.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🛠 Skills
+Javascript, HTML, CSS and Django
+
+
+## Lessons Learned
+
+When buiding this project i learnt about front end and what it entails.My biggest challenge was card using flexbox.
+
+
